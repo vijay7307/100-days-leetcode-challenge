@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0015-3sum) |
 | [0704-binary-search](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
