@@ -7,9 +7,8 @@ public:
             if(left > 0 && nums[left] == nums[left - 1]) continue;
             int next = left + 1;
             int last = nums.size() - 1;
-            int sum = 0;
             while(next < last){
-                sum = nums[left] +nums[next] +nums[last];
+                int sum = nums[left] +nums[next] +nums[last];
                 if(sum == 0){
                     result.push_back({nums[left], nums[next], nums[last]});
                     next ++;
@@ -19,11 +18,9 @@ public:
                 }
                 else if(sum < 0){
                     next++;
-                    while(next < last && nums[next] == nums[next - 1]) next++;
                 }
                 else{
                     last--;
-                    while(next < last && nums[last] == nums[last + 1]) last--;
                 }
             }
         }
