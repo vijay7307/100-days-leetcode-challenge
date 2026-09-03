@@ -7,20 +7,23 @@ public:
             if(left > 0 && nums[left] == nums[left - 1]) continue;
             int next = left + 1;
             int last = nums.size() - 1;
+            int sum = 0;
             while(next < last){
-                if(nums[left] + nums[next] + nums[last] < 0) next++;
-                else if(nums[left] + nums[next] + nums[last] > 0) last--;
-                else{
+                sum = nums[left] +nums[next] +nums[last];
+                if(sum == 0){
                     result.push_back({nums[left], nums[next], nums[last]});
+                    next ++;
+                    last --;
+                    while(next < last && nums[next] == nums[next - 1]) next++;
+                    while(next < last && nums[last] == nums[last + 1]) last--;
+                }
+                else if(sum < 0){
                     next++;
+                    while(next < last && nums[next] == nums[next - 1]) next++;
+                }
+                else{
                     last--;
-                    while(next < last && nums[next] == nums[next - 1]){
-                        next++;
-                    }
-                    while(next < last && nums[last] == nums[last + 1]){
-                        last--;
-                    }
-                    
+                    while(next < last && nums[last] == nums[last + 1]) last--;
                 }
             }
         }
