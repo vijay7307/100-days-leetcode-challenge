@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0169-majority-element](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0169-majority-element) |
 | [0001-two-sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0001-two-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
