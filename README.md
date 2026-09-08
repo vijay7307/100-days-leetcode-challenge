@@ -41,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0169-majority-element](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0169-majority-element) |
 | [0001-two-sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0242-valid-anagram) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
