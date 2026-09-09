@@ -7,9 +7,7 @@ public:
         int maxfreq = 0;
         for(int right = 0; right < s.size(); right++){
             mp[s[right]]++; 
-            int freq = std::max_element(mp.begin(), mp.end(), 
-                        [](auto p1, auto p2) { return p1.second < p2.second; }) -> second;
-            maxfreq = max(maxfreq, freq);
+            maxfreq = max(maxfreq, mp[s[right]]);
             int length = right - left + 1;
             if(length - maxfreq <= k){
                 maxlength = max(maxlength, length);
