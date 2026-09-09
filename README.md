@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0169-majority-element) |
 | [0001-two-sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0209-minimum-size-subarray-sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [0349-intersection-of-two-arrays](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +69,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0209-minimum-size-subarray-sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
