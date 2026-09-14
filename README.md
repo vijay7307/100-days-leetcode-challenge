@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0209-minimum-size-subarray-sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0567-permutation-in-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0567-permutation-in-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
