@@ -1,38 +1,30 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int m = s.size();
-        int n = t.size();
-        if(m < n) return "";
-        unordered_map<char, int> mp;
+        int hash[128] = {0};
+        int minlength = INT_MAX;
+        int stIdx = -1;
         int count = 0;
-        int st = -1;
-        int minLength = INT_MAX;
         int left = 0;
-        for(char x : t){
-            mp[x]++;
-        }
-        for(int right = 0; right < m; right++){
-
-            if(mp[s[right]] > 0){
+        for(auto x : t) hash[x]++;
+        for(int right = 0; right < s.size(); right++){
+            if(hash[s[right]] > 0){
                 count++;
             }
-
-            mp[s[right]]--;
-
-            while(count == n){
-                if(right - left + 1  < minLength){
-                    minLength = right - left + 1;
-                    st = left;
+            hash[s[right]]--;
+            while(count == t.size()){
+                if(right-left+1 < minlength){
+                    minlength = right-left+1;
+                    stIdx = left;
                 }
-                mp[s[left]]++;
-                if(mp[s[left]] > 0){
+                hash[s[left]]++;
+                if(hash[s[left]] > 0){
+                    // stIdx = left;
                     count--;
-                } 
+                }
                 left++;
             }
-            
         }
-        return st == -1 ? "" : s.substr(st, minLength);
+        return stIdx == -1 ? "" : s.substr(stIdx, minlength);
     }
 };
