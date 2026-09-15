@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0567-permutation-in-string) |
+| [0125-valid-palindrome](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0567-permutation-in-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
