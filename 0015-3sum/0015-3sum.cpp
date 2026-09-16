@@ -1,29 +1,32 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> result;
         sort(nums.begin(), nums.end());
-        for(int left = 0; left < nums.size(); left++){
-            if(left > 0 && nums[left] == nums[left - 1]) continue;
-            int next = left + 1;
-            int last = nums.size() - 1;
-            while(next < last){
-                int sum = nums[left] +nums[next] +nums[last];
-                if(sum == 0){
-                    result.push_back({nums[left], nums[next], nums[last]});
-                    next ++;
-                    last --;
-                    while(next < last && nums[next] == nums[next - 1]) next++;
-                    while(next < last && nums[last] == nums[last + 1]) last--;
+        vector<vector<int>> result;
+        int st = 0;
+        for(int st = 0; st < nums.size(); st++){
+            if(st > 0 && nums[st] == nums[st - 1]) continue;
+            int left = st + 1;
+            int right = nums.size() - 1;
+            while(left < right){
+                int sum = nums[st] + nums[left] + nums[right];
+                if(sum < 0) left++;
+                else if(sum > 0) right--;
+                else {
+                    result.push_back({nums[st], nums[left], nums[right]});
+                    left++;
+                    right--;
+                    while(left < right && nums[left] == nums[left - 1]){
+                        left++;
+                    }
+                    while(left < right && nums[right] == nums[right + 1]){
+                        right--;
+                    }
                 }
-                else if(sum < 0){
-                    next++;
-                }
-                else{
-                    last--;
-                }
+                
             }
         }
         return result;
+        
     }
 };
