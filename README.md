@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0904-fruit-into-baskets) |
 | [0011-container-with-most-water](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0567-permutation-in-string) |
 | [0125-valid-palindrome](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0125-valid-palindrome) |
 | [0011-container-with-most-water](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
