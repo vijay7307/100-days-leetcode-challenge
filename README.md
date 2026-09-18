@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0125-valid-palindrome) |
+| [0020-valid-parentheses](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0020-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,8 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0042-trapping-rain-water) |
+| [0020-valid-parentheses](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0020-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
