@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -127,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
