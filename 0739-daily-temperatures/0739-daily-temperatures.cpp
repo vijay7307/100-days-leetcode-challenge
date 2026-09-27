@@ -1,20 +1,23 @@
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
-        vector<int> answer(temperatures.size());
+        vector<int> result;
         stack<int> st;
         for(int i = temperatures.size() - 1; i >= 0; i--){
-            while(!st.empty() && temperatures[st.top()] <= temperatures[i]){
-                st.pop();
+            //check for top element is greater?
+            while(!st.empty()){
+                if(temperatures[st.top()] > temperatures[i]) {
+                    result.push_back(st.top() - i);
+                    break;
+                }
+                else {
+                    st.pop();
+                }
             }
-            if(st.empty()){
-                answer[i] = 0;
-            }
-            else{
-                answer[i] = st.top() - i;
-            }
+            if(st.empty()) result.push_back(0);
             st.push(i);
         }
-        return answer;
+        reverse(result.begin(), result.end());
+        return result;
     }
 };
