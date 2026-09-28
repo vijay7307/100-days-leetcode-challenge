@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0125-valid-palindrome) |
 | [0020-valid-parentheses](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0402-remove-k-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0739-daily-temperatures) |
 | [0155-min-stack](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0155-min-stack) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0402-remove-k-digits](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0739-daily-temperatures) |
+| [0402-remove-k-digits](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0402-remove-k-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
