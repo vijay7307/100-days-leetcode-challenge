@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0739-daily-temperatures) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0503-next-greater-element-ii](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0155-min-stack) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0739-daily-temperatures) |
 | [0402-remove-k-digits](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
