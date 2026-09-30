@@ -3,7 +3,6 @@ public:
 
     stack<int> st;
     stack<int> minstack;
-    
     MinStack() {
         
     }
@@ -14,7 +13,7 @@ public:
     }
     
     void pop() {
-        if(st.top() == minstack.top())minstack.pop();
+        if(st.top()==minstack.top())minstack.pop();
         st.pop();
     }
     
@@ -23,7 +22,7 @@ public:
     }
     
     int getMin() {
-       return minstack.top();
+        return minstack.top();
     }
 };
 
