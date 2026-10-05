@@ -146,8 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0509-fibonacci-number) |
+| [0206-reverse-linked-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0206-reverse-linked-list) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
