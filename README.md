@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0283-move-zeroes) |
 | [0042-trapping-rain-water](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0042-trapping-rain-water) |
 | [0876-middle-of-the-linked-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0876-middle-of-the-linked-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sorting
 |  |
 | ------- |
@@ -161,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0203-remove-linked-list-elements) |
 | [0021-merge-two-sorted-lists](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
