@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0042-trapping-rain-water) |
 | [0876-middle-of-the-linked-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0503-next-greater-element-ii) |
+| [0143-reorder-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0206-reverse-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0203-remove-linked-list-elements) |
 | [0021-merge-two-sorted-lists](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0143-reorder-list) |
 ## Memoization
 |  |
 | ------- |
@@ -163,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0203-remove-linked-list-elements) |
 | [0021-merge-two-sorted-lists](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
