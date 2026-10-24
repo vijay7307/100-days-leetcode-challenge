@@ -11,39 +11,37 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        if (head == nullptr || head->next == nullptr) {
-            return;
+        if(head == nullptr){
+            return ;
         }
-
-        //find mid node
+        
+        //find mid
         ListNode* slow = head;
         ListNode* fast = head;
-
         while(fast != nullptr && fast -> next != nullptr){
             slow = slow -> next;
             fast = fast -> next -> next;
-        } 
+        }
 
-        //reverse the half list
+        //reverse the half
+        ListNode* prev = nullptr;
         ListNode* curr = slow -> next;
         slow -> next = nullptr;
-        ListNode* prev = nullptr;
-
         while(curr != nullptr){
             ListNode* nextNode = curr -> next;
+            
             curr -> next = prev;
             prev = curr;
             curr = nextNode;
         }
 
-        //merge both the list one by one
+        //merge
         ListNode* first = head;
         ListNode* second = prev;
-
         while(second != nullptr){
             ListNode* firstNext = first -> next;
             ListNode* secondNext = second -> next;
-
+            
             first -> next = second;
             second -> next = firstNext;
 
