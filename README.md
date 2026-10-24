@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0143-reorder-list) |
+| [0141-linked-list-cycle](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0904-fruit-into-baskets) |
 | [0076-minimum-window-substring](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -167,4 +169,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0143-reorder-list) |
+| [0141-linked-list-cycle](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
