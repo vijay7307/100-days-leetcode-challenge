@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0143-reorder-list) |
 | [0141-linked-list-cycle](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0904-fruit-into-baskets) |
 | [0076-minimum-window-substring](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0143-reorder-list) |
 | [0141-linked-list-cycle](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vijay7307/100-days-leetcode-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
