@@ -12,9 +12,9 @@ public:
         ListNode* pA = headA;
         ListNode* pB = headB;
         while(pA != pB){
-            pA = (pA == nullptr) ? headB : pA->next;
-            pB = (pB == nullptr) ? headA : pB->next;   
+            pA = pA != nullptr ? pA -> next : headB;
+            pB = pB != nullptr ? pB -> next : headA;
         }
-        return pA;
+        return pB;
     }
 };
